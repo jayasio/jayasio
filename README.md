@@ -1,7 +1,10 @@
-### Hi there 👋
-I'm a product designer who uses Flutter.
+### Hallo! 👋
+I'm a UI/UX designer. 
+Dart and Flutter amateur.
 
 https://jayas.me
+(it's almost always unfinished, bear with me)
+
 <!--
 **jayasio/jayasio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
