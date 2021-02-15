@@ -5,10 +5,6 @@ Dart and Flutter amateur.
 https://jayas.me
 (it's almost always unfinished, bear with me)
 
-Here's my 'digital garden'
-https://dgarden.jayas.me
-
-
 <!--
 **jayasio/jayasio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
