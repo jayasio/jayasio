@@ -1,6 +1,5 @@
 ### Hallo! 👋
-I'm a UI/UX designer. 
-Dart and Flutter amateur.
+I'm an interaction designer and maker.
 
 https://jayas.me
 
