@@ -1,7 +1,7 @@
 ### Hallo! 👋
-I'm an interaction designer and maker.
+I'm an interaction designer, maker and design engineer wannabe.
 
-https://jayas.me
+Currently building https://jayas.me
 
 <!--
 **jayasio/jayasio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
